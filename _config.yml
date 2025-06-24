@@ -86,13 +86,13 @@ content:
         description: | # this will include new lines to allow paragraphs
             Responsibilities include:
 
-            ·Avoiding deadlines with unparalleled skill
+            · Avoiding deadlines with unparalleled skill
 
-            ·Staring at VSCode for hours while doing nothing
+            · Staring at VSCode for hours while doing nothing
 
-            ·Managing an emotional support cat during stressful times (she does more work than I do)
+            · Managing an emotional support cat during stressful times (she does more work than I do)
 
-            ·Accidentally learning things while trying not to
+            · Accidentally learning things while trying not to
 
 
 
@@ -109,25 +109,22 @@ content:
           I've mastered the art of last-minute submissions and the strategic nap.
           Courses I excelled in:
 
-          ·Intro to "This Wasn't on the Slides"
+          · Intro to "This Wasn't on the Slides"
 
-          ·Advanced Snack Acquisition
+          · Advanced Snack Acquisition
 
-          ·Discrete Sadness (a.k.a. C++)
+          · Discrete Sadness (a.k.a. C++)
 
-          ·Currently writing a thesis on: "How I Somehow Keep Passing Without Understanding Anything."
+          · Currently writing a thesis on: "How I Somehow Keep Passing Without Understanding Anything."
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      When I'm not busy pretending to be productive, I spend time exploring random hobbies, making suspiciously specific playlists, and overthinking everything.
+      I recently uploaded something weirdly personal but maybe kind of cool — check it out below:
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      [This video changed my GPA forever (not clickbait)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 # Footer
 footer_show_references: true
